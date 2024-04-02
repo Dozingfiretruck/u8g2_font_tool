@@ -23,11 +23,11 @@ Developed based on pyside6 + freetype3
 
 ### shell version：
 
-![u8g2_font_tool](F:\code\codeup\u8g2_font_tool\doc\u8g2_font_tool_shell.png)
+![u8g2_font_tool](./doc/u8g2_font_tool_shell.png)
 
 ### UI version:
 
-![u8g2_font_tool](F:\code\codeup\u8g2_font_tool\doc\u8g2_font_tool_zh.png)
+![u8g2_font_tool](./doc/u8g2_font_tool_zh.png)
 
 
 
