@@ -27,7 +27,11 @@ u8g2 字体制作工具 支持图形化+命令行模式
 
 ![u8g2_font_tool](./doc/u8g2_font_tool_zh.png)
 
+## 交流群
 
+​	**非技术支持，仅作为兴趣交流**
+
+![Communication](./docs/Communication.png)
 
 
 

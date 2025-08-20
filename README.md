@@ -29,5 +29,9 @@ Developed based on pyside6 + freetype3
 
 ![u8g2_font_tool](./doc/u8g2_font_tool_zh.png)
 
+## Discussion group
 
+​	**Non-technical support, only for the purpose of interest exchange.**
+
+![Communication](./docs/Communication.png)
 
