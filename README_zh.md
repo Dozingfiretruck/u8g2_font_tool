@@ -2,9 +2,19 @@
 
 # u8g2_font_tool
 
+github: [Dozingfiretruck/u8g2_font_tools](https://github.com/Dozingfiretruck/u8g2_font_tools)
+
+gitee: [u8g2_font_tool: u8g2 字体制作工具](https://gitee.com/Dozingfiretruck/u8g2_font_tool)
+
 ## 介绍
+
 u8g2 字体制作工具 支持图形化+命令行模式 
-开发原因:解决otf2bdf 工具对某些字体处理不好,导致个别字符错位问题
+最初开发原因是为了解决otf2bdf 工具对某些字体处理不好,导致个别字符错位问题
+
+**字体支持格式**：TTF、OTF
+**输出文件**: bdf、tga、u8g2 bin文件、u8g2 c代码文件
+
+
 
 平台支持情况:
 
@@ -21,11 +31,11 @@ u8g2 字体制作工具 支持图形化+命令行模式
 
 ### shell版本：
 
-![u8g2_font_tool](./doc/u8g2_font_tool_shell.png)
+![u8g2_font_tool](./docs/u8g2_font_tool_shell.png)
 
 ### UI版本:
 
-![u8g2_font_tool](./doc/u8g2_font_tool_zh.png)
+![u8g2_font_tool](./docs/u8g2_font_tool_zh.png)
 
 ## 交流群
 
