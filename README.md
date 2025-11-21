@@ -2,9 +2,9 @@
 
 # u8g2_font_tool
 
-github: [Dozingfiretruck/u8g2_font_tools](https://github.com/Dozingfiretruck/u8g2_font_tool)
+github: [PeakRacing/u8g2_font_tools](https://github.com/PeakRacing/u8g2_font_tool)
 
-gitee: [u8g2_font_tool: u8g2 字体制作工具](https://gitee.com/Dozingfiretruck/u8g2_font_tool)
+gitee: [u8g2_font_tool: u8g2 字体制作工具](https://gitee.com/PeakRacing/u8g2_font_tool)
 
 ## Introduction
 U8G2 Font Make Tool supports graphical + command line mode 
